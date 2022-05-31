@@ -2,4 +2,4 @@
 
 Project for IT-academy 
 
-mentor: 
+mentor: https://github.com/trofort
